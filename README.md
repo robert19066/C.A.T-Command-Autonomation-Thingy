@@ -1,5 +1,5 @@
 **C.A.T** is an alternative of cmd,with a little bit of improvments.
-Because in cmd,and powershhel there aren't aliases,but C.A.T has! You can modify it straight from the file!
+Because in cmd,and PowerShell there aren't aliases,but C.A.T has! You can modify it straight from the file!
 And it ***cannot*** run on Unix-based systems(yet)
 
 ## Commands
