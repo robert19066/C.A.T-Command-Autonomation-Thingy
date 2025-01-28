@@ -34,7 +34,7 @@ mkdir_alias = 'makeFol' #done
 mkdir_alias2 = 'ml' #done
 
 rmdir_force_alias_attrb = '-force' #done
-rmdir_alias = 'removeFol' #done
+rmdir_alias = 'rmFol' #done
 rmdir_alias2 = 'rl' #done
 
 mkfile_alias = 'makeFile' #done
